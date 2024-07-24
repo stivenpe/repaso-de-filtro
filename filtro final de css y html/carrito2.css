@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    height: 0;
+    background-color:rgb(202, 204, 206);
+    
+}
+   
+
+
+
+
+.datos{
+    margin-left: 700px;
+    border-radius: 29px;
+    border: 2px solid;
+    width: 380px;
+    padding: 190px;
+    margin-top: 190px;
+    background-color: rgb(255, 255, 255);
+}
+
+.datos h1{
+    margin-left: 0px;
+    margin-top: -90px;
+}
+.datos p{
+    margin-left: 0px;
+}
+

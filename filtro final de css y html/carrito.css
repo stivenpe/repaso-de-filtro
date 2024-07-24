@@ -1,0 +1,176 @@
+body{
+    margin: 10;
+    height: 0;
+    background-color: rgba(163, 163, 163, 0.308);
+}
+
+.carr h1{
+    margin-top: 90px;
+    margin-left: 500px;
+    
+}
+
+.carrito{
+    margin-left: 80px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin-top: -150px;
+   
+
+
+}
+.tex1{
+    margin-top: -10px;
+}
+.tex2{
+    margin-left: 95px;
+    margin-top: -70px;
+}
+.tex3{
+    margin-left: 175px;
+    margin-top: -75px;
+}
+.tex4{
+    margin-left: 265px;
+    margin-top: -65px;
+}
+
+.dat{
+    margin-left: 80px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+
+   
+
+
+}
+.te1{
+    margin-top: -10px;
+}
+.te2{
+    margin-left: 95px;
+    margin-top: -70px;
+}
+.te3{
+    margin-left: 175px;
+    margin-top: -75px;
+}
+.te4{
+    margin-left: 265px;
+    margin-top: -65px;
+}
+
+.date{
+    margin-left: 83px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.tx1{
+    margin-top: -10px;
+}
+.tx2{
+    margin-left: 95px;
+    margin-top: -70px;
+}
+.tx3{
+    margin-left: 175px;
+    margin-top: -75px;
+}
+.tx4{
+    margin-left: 265px;
+    margin-top: -65px;
+}
+
+.datos{
+    margin-top: 100px;
+    border-radius: 30px;
+    border: 2PX solid;
+    padding: 160px;
+    width: 700px;
+    margin-left: 450px;
+    background-color: rgb(76, 159, 165);
+}
+
+.tx2 input{
+    width: 50px;
+    height: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(14, 15, 14);
+    border-radius: 40px;
+    margin-top: -25px;
+    background: beige;
+}
+
+.tex2 input{
+    width: 50px;
+    height: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(14, 15, 14);
+    border-radius: 40px;
+    margin-top: -25px;
+    background: beige;
+}
+
+.te2 input{
+    width: 50px;
+    height: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(14, 15, 14);
+    border-radius: 40px;
+    margin-top: -25px;
+    background: beige;
+}
+.dex{
+    margin-top: 40px;
+    margin-left: 80px;
+    border-radius: 20px;
+    border: 2px solid;
+    width: 90px;
+    background: beige;
+}
+
+.deb{
+    border-radius: 10px;
+    border: 2px solid;
+    width: 200px;
+    margin-left: 280px;
+    padding: 10px;
+    margin-top: -40px;
+}
+.deb p{
+    margin-left: 10px;
+
+}
+.comp p{
+    margin-left: 80px;
+    margin-top: -60px;
+    border-radius: 10px;
+    border: 2px solid;
+    background: beige;
+}
+.cc{
+    margin-top: -150px;
+    margin-left:510px;
+    border-radius: 50px;
+    border: 2px solid;
+    width: 14px;
+    background: beige;
+}

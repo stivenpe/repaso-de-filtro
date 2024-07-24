@@ -1,0 +1,234 @@
+body{
+    margin: 0;
+    height: o;
+    background-color: rgb(65, 109, 151);
+}
+
+.productos1{
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: 15px;
+
+
+}
+
+
+.productos2{
+    margin-left: 180px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: -185px;
+
+
+}
+
+
+.productos3{
+    margin-left: 340px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: -185px;
+
+
+}
+
+
+.productos4{
+    margin-left: 500px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: -185px;
+
+
+}
+
+.productos5{
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+
+
+}
+
+
+.productos6{
+    margin-left: 180px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: -185px ;
+
+
+}
+
+
+.productos7{
+    margin-left: 340px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: -185px;
+
+
+}
+
+
+.productos8{
+    margin-left: 500px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 50px;
+    height: 80px;
+    padding: 50px;
+    margin-top: -185px;
+}
+
+.date{
+    margin-top: 100px;
+    border-radius: 30px;
+    border: 2PX solid;
+    padding: 40px;
+    width: 700px;
+    margin-left: 450px;
+    background-color: rgb(76, 159, 165);
+}
+@media (max-width:2556px){
+    body{
+        margin: 0;
+        height: 0;
+        background-color: rgb(65, 109, 151);
+    }
+    
+    .productos1{
+        margin-left: 2vh;
+        border-radius:1vh;
+        border: 2px solid;
+        width: 5vh;
+        height: 8vh;
+        padding: 50px;
+        margin-top: 15px;
+    
+    
+    }
+    
+    
+    .productos2{
+        margin-left:18vh;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 5vh;
+        height: 80px;
+        padding: 50px;
+        margin-top: -185px;
+    
+    
+    }
+    
+    
+    .productos3{
+        margin-left: 34vh;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 50px;
+        height: 8vh;
+        padding: 50px;
+        margin-top: -185px;
+    
+    
+    }
+    
+    
+    .productos4{
+        margin-left: 500px;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 50px;
+        height: 80px;
+        padding: 50px;
+        margin-top: -185px;
+    
+    
+    }
+    
+    .productos5{
+        margin-left: 20px;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 50px;
+        height: 80px;
+        padding: 50px;
+    
+    
+    }
+    
+    
+    .productos6{
+        margin-left: 180px;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 50px;
+        height: 80px;
+        padding: 50px;
+        margin-top: -185px ;
+    
+    
+    }
+    
+    
+    .productos7{
+        margin-left: 340px;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 50px;
+        height: 80px;
+        padding: 50px;
+        margin-top: -185px;
+    
+    
+    }
+    
+    
+    .productos8{
+        margin-left: 500px;
+        border-radius: 10px;
+        border: 2px solid;
+        width: 50px;
+        height: 80px;
+        padding: 50px;
+        margin-top: -185px;
+    }
+    
+    .date{
+        margin-top: 100px;
+        border-radius: 30px;
+        border: 2PX solid;
+        padding: 40px;
+        width: 700px;
+        margin-left: 450px;
+        background-color: rgb(76, 159, 165);
+    }
+  }
+
+  @media (min-width: 1179px){
+    <!—- Aquí van todos los estilos CSS -->
+  }
